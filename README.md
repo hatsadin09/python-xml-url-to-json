@@ -1,6 +1,6 @@
 ## description
 - python 3.8
-- need config file to execute 
+- need config file (config.json) to execute 
 
 ## build
 ```
