@@ -1,3 +1,7 @@
+## description
+- python 3.8
+- need config file to execute 
+
 ## build
 ```
 pip install -r requirements.txt
